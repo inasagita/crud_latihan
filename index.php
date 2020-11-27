@@ -43,13 +43,13 @@ if (isset($_POST["cari"]) ) {
         }
     }
     </style>
-    <title>Admin</title>
+    <title>TEST</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 </head>
 <body class="h-vh-100 bg-brandColor2">
     <?php include 'nav.php'; ?>
     <br><br><br>
-    <h1 align="center" style="color: white;">Daftar Mahasiswa</h1>
+    <h1 align="center" style="color: white;">Anyeoooooonghaseooo!!!</h1>
     <a class="button primary cell-4  offset-4 drop-shadow" href="tambah.php"><span class="mif-plus"></span> Tambah Data Mahasiswa</a>
     <br><br>
     
